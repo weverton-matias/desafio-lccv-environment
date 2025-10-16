@@ -26,23 +26,7 @@ cd lccv_environment
 
 ---
 
-## Passo 2 - Clonar os repositórios da aplicação
-
-### Front-end
-
-```bash
-git clone https://github.com/weverton-matias/desafio-lccv-front.git front
-```
-
-### API
-
-```bash
-git clone https://github.com/weverton-matias/desafio-lccv-api.git api
-```
-
----
-
-## Passo 3 - Iniciar a aplicação
+## Passo 2 - Iniciar a aplicação
 
 Execute o comando abaixo para construir e subir todos os serviços:
 
